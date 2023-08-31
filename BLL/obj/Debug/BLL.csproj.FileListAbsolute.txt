@@ -1,0 +1,28 @@
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\BLL.dll
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\BLL.pdb
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\AutoMapper.dll
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\DAL.dll
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\EntityFramework.dll
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\DAL.pdb
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\DAL.dll.config
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\AutoMapper.xml
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\bin\Debug\EntityFramework.xml
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\obj\Debug\BLL.dll
+F:\ASP .NET\ASP-DOT-NET\Conference-Ticketing-System\BLL\obj\Debug\BLL.pdb
+F:\Assignment2\Conference-Ticketing-System\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+F:\Assignment2\Conference-Ticketing-System\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\BLL.dll
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\BLL.pdb
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\AutoMapper.dll
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\DAL.dll
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\EntityFramework.dll
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\DAL.pdb
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\DAL.dll.config
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\AutoMapper.xml
+F:\Assignment2\Conference-Ticketing-System\BLL\bin\Debug\EntityFramework.xml
+F:\Assignment2\Conference-Ticketing-System\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Assignment2\Conference-Ticketing-System\BLL\obj\Debug\BLL.dll
+F:\Assignment2\Conference-Ticketing-System\BLL\obj\Debug\BLL.pdb

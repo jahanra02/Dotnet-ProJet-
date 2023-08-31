@@ -1,0 +1,47 @@
+﻿using BLL.DTOs;
+using DAL.EF.Models;
+using DAL;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BLL.Services
+{
+    public class AuditoriumService
+    {
+        public static List<AuditoriumDTO> Get()
+        {
+            var data = DataAccess.AuditoriumData().Get();
+            var map = MapperService<Auditorium, AuditoriumDTO>.GetMapper();
+            return map.Map<List<AuditoriumDTO>>(data);
+        }
+
+        public static AuditoriumDTO Get(int id)
+        {
+            var data = DataAccess.AuditoriumData().Get(id);
+            var map = MapperService<Auditorium, AuditoriumDTO>.GetMapper();
+            return map.Map<AuditoriumDTO>(data);
+        }
+
+        public static bool Add(AuditoriumDTO Auditorium)
+        {
+            var mapper = MapperService<AuditoriumDTO, Auditorium>.GetMapper();
+            var map = mapper.Map<Auditorium>(Auditorium);
+            return DataAccess.AuditoriumData().Create(map);
+        }
+
+        public static bool Update(AuditoriumDTO Auditorium)
+        {
+            var mapper = MapperService<AuditoriumDTO, Auditorium>.GetMapper();
+            var map = mapper.Map<Auditorium>(Auditorium);
+            return DataAccess.AuditoriumData().Update(map);
+        }
+
+        public static bool Delete(int id)
+        {
+            return DataAccess.AuditoriumData().Delete(id);
+        }
+    }
+}
